@@ -1,4 +1,8 @@
-# ovpn-admin
+# ovpn-admin-suite
+
+This repo was created as a fork of ovpn-admin, to make it ready to use as a censorship bypassing tool with Nginx protected by basic-auth
+
+# ovpn-admin 
 
 Simple web UI to manage OpenVPN users, their certificates & routes in Linux. While backend is written in Go, frontend is based on Vue.js.
 
